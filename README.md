@@ -73,7 +73,7 @@ Essa sequência foi pensada para criar uma formação equilibrada entre **teoria
 
 # Resumo do conhecimento por etapa
 
-## 1. Fundamentos da Arquitetura de Software
+## 1. Fundamentos da Arquitetura de Software - Em andamento
 
 Este é o ponto de partida da trilha. O objetivo é entender o que é arquitetura de software, qual é o papel do arquiteto e como sistemas são organizados em alto nível.
 
